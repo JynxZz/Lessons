@@ -1,0 +1,30 @@
+CODE WARS CHALLENGE - WAGON 
+
+DAY -- 1 
+
+Is n divisible by x and y? https://www.codewars.com/kata/5545f109004975ea66000086/python
+Hello, Name or World! https://www.codewars.com/kata/57e3f79c9cb119374600046b/python
+Area or Perimeter https://www.codewars.com/kata/5ab6538b379d20ad880000ab/python
+Keep Hydrated https://www.codewars.com/kata/582cb0224e56e068d800003c/python
+Is the string upcase? https://www.codewars.com/kata/56cd44e1aa4ac7879200010b/python
+
+
+DAY -- 2 
+
+Testing 1-2-3 https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/python
+Running out of space https://www.codewars.com/kata/56576f82ab83ee8268000059/train/python
+Sum of the two lowest integers https://www.codewars.com/kata/558fc85d8fd1938afb000014/python
+Password Validator https://www.codewars.com/kata/56a921fa8c5167d8e7000053/python
+Password Maker https://www.codewars.com/kata/5637b03c6be7e01d99000046/python
+String’s even character https://www.codewars.com/kata/566044325f8fddc1c000002c/train/python
+Manhattan distance https://www.codewars.com/kata/52998bf8caa22d98b800003a
+Mexican wave https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/train/python
+Multiplication table https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/python
+
+
+DAY -- 3 
+
+Training on counting duplicates https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/python
+Duplicate encoder https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/python
+Find the odd one https://www.codewars.com/kata/54da5a58ea159efa38000836/python
+Arrh, grabscrab! https://www.codewars.com/kata/52b305bec65ea40fe90007a7/python
