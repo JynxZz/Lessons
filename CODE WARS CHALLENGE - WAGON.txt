@@ -38,3 +38,12 @@ Object Oriented Piracy https://www.codewars.com/kata/54fe05c4762e2e3047000add/py
 Sleigh Authentication https://www.codewars.com/kata/52adc142b2651f25a8000643/python
 User class for Banking system https://www.codewars.com/kata/5a03af9606d5b65ff7000009/python
 Potion 101 https://www.codewars.com/kata/5981ff1daf72e8747d000091/python
+
+
+DAY -- 5 
+
+Sum of Digits https://www.codewars.com/kata/541c8630095125aba6000c00/python
+Stop gninnipS My sdroW! https://www.codewars.com/kata/5264d2b162488dc400000001/python
+Create a Phone Number https://www.codewars.com/kata/525f50e3b73515a6db000b83/python
+The Supermarket Queue https://www.codewars.com/kata/57b06f90e298a7b53d000a86
+Loose Change https://www.codewars.com/kata/5571f712ddf00b54420000ee
